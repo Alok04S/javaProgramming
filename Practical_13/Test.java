@@ -9,12 +9,6 @@ class Sample{
 			}
 		}
 		
-
-
-
-
-
-		
 		return counter;
 	}
 

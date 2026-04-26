@@ -28,7 +28,7 @@ class Calci{
 
 	public static void main(String[] args){
 	Scanner sc= new Scanner(System.in);
-	System.out.println("Calculator Created By Aryan-2024BIT020");	
+	System.out.println("Calculator Created By Alok Singh");	
 	int choice=1;
 	while(choice==1){
 		try{
